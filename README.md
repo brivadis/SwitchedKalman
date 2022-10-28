@@ -16,6 +16,6 @@ to obtain figures 1, 2 and 3 of the paper.
 <br/><br/>
 
 <p align="center">
-	<img src="https://github.com/brivadis/SwitchingKalman/blob/main/trajectory.jpg" title="Trajectory of the closed-loop system">
+	<img src="https://github.com/brivadis/SwitchingKalman/blob/main/traj.jpg" title="Trajectory of the closed-loop system">
 </p>
 <figure>
